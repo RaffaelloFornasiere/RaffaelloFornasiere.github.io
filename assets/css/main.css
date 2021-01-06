@@ -2591,7 +2591,6 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #1f1815;
 		
 		/* background-attachment: scroll,								scroll;
 		background-image: url("images/overlay.png"), url("../../images/BGmB.png");
@@ -2600,10 +2599,11 @@ input, select, textarea {
 		background-size: auto,								200%;
 		 */
 		background-attachment: scroll;
-		background-image: url("../../images/BGmB.png");
+		background-image: url("../../images/BGmB3.png");
+		background-color: #1a1b1c;
 		background-position: 	top left;
 		background-repeat: 			no-repeat;
-		background-size: 						200%;
+		background-size: 						100%;
 
 
 		color: rgba(255, 255, 255, 0.5);
